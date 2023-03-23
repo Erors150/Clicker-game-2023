@@ -1,5 +1,5 @@
 #canvas{
-    background-color: rgb(27, 32, 32);
+    background-color: aqua;
     height: 500px;
     width: 500px;
     display: flex;
@@ -9,12 +9,12 @@
 }
 
 #score{
-    color: rgb(255, 255, 255);
+    color: blue;
     font-size: 48px;
 }
 
 #button{
-    background-color: rgb(35, 9, 46);
+    background-color: darkviolet;
     height: 200px;
     width: 200px;
     border-radius: 50%;
